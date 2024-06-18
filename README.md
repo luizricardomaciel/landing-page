@@ -1,2 +1,2 @@
 # landing-page
-project for HTML and CSS development
+project for HTML and CSS development.
